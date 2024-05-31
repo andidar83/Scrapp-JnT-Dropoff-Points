@@ -1,0 +1,1 @@
+This script is one of the many script that i use to scrapp competitpr drop off points locations from their website. All the compiled data is then visualized in this dashboard to see the spread of all competitor dropoff points. https://lookerstudio.google.com/reporting/ed97b4f6-f0c5-4c5a-8095-769d3ec3c9ff/page/VKloD
